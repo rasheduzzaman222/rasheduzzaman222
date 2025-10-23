@@ -10,6 +10,9 @@
   <a href="https://https://www.facebook.com/rashed.raj.48">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/md-rasheduzzaman-rashed-3a9128390/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
