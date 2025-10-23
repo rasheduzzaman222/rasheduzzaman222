@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/md-rasheduzzaman-rashed-3a9128390/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=LinkedIn&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
