@@ -1,6 +1,5 @@
 
 <h1 align="center">Md Rasheduzzaman Rashed</h1>
-
 <p align="center">
   <strong>Backend-Focused Full Stack Developer</strong><br/>
   Linux • Docker • GitHub Actions • AWS • Python
