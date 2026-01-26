@@ -1,14 +1,17 @@
+<p align="center">
+  <img src="./banner.png" alt="Md Rasheduzzaman Rashed Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Md Rasheduzzaman Rashed</h1>
-<h3 align="center">🚀 Full Stack Developer | 🧪 Researcher | 🐍 Python Lover</h3>
+
+<p align="center">
+  <strong>Backend-Focused Full Stack Developer</strong><br/>
+  Linux • Docker • GitHub Actions • AWS • Python
+</p>
 
 <p align="center">
   <a href="mailto:rasheduzzaman788@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://https://www.facebook.com/rashed.raj.48">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/md-rasheduzzaman-rashed-3a9128390/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -17,19 +20,26 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🌐 Currently building my **personal portfolio website**
-- 🌱 Always learning **new frameworks & dev tools**
-- 🤝 Open to **collaborating on open-source** or research projects
-- 📌 Passionate about **clean code**, scalable systems, and **creative UI**
-- 🧪 Exploring **AI, machine learning & automation**
+I’m Md Rasheduzzaman Rashed, a Computer Science student at **IUBAT, Bangladesh**, with a strong focus on building **reliable backend systems** and **web-based applications** that reflect real-world software practices.
+
+My interests center around **transaction-oriented backend logic**, API-driven architectures, and system workflows where correctness, clarity, and data integrity matter more than quick visual results. I prefer understanding *why* a system works, not just *how* to make it run.
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 Engineering Mindset
 
-#### 🚀 Frontend
+- I approach development with a **backend-first and system-oriented perspective**
+- I value **clean architecture, predictable behavior, and maintainable code**
+- I enjoy working on problems involving **authentication, transactions, and data consistency**
+- I believe strong systems are built through discipline, not shortcuts
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -37,37 +47,49 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-#### 🧰 Backend
+### 🧰 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+### 🗄️ Database, DevOps & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-#### 🐍 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-
-#### 💻 Platforms & Design
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-### 🎉 Fun Facts
+## 📌 Featured Work
 
-- 🧠 I talk to computers more than humans—and they actually listen!
-- ⏱️ Automated a 5-minute task in 3 hours and it was worth it.
-- 🐞 Debugging is like being the detective in a crime movie where you’re also the murderer.
-- 🎨 I design with love — clean UIs make me happy.
-- 💬 My favorite language? Python. Not the snake.
+- **Transaction Wallet System**  
+  A backend-driven project focused on authentication, role-based access, and transaction workflows with strong validation and consistency guarantees.
+
+- **API-Centric Applications**  
+  Projects designed around RESTful principles, clear separation of concerns, and scalable backend structure.
+
+---
+
+## 🎯 Current Focus
+
+- Designing backend systems with **transaction safety**
+- Improving understanding of **DevOps and deployment workflows**
+- Writing clearer documentation and more intentional code
+- Preparing for backend / software engineering roles in production environments
 
 ---
 
-### 🎉 More About Myself
-> I'm Md Rasheduzzaman Rashed, a passionate Full Stack Developer, curious Researcher, and enthusiastic Python lover from Bangladesh. I enjoy building clean, scalable web applications and exploring the intersection of code, creativity, and problem-solving.
-My journey in tech started with a love for logic and design. Over time, I’ve dived into modern web development, experimented with AI, and collaborated on open-source projects. Whether it's frontend magic with React or backend architecture with Node.js and MongoDB. I enjoy the whole stack.
-I believe in writing readable code, continuous learning, and creating solutions that actually help people. Outside of code, you’ll probably find me sketching out UI ideas, automating my daily tasks, or debugging something I probably broke myself 😅
+## 🤝 Open To
+
+- Backend or full-stack collaboration  
+- Open-source contributions  
+- Technical discussions around systems and architecture  
 
 ---
+
+<p align="center">
+  <em>“Good systems are built with discipline, clarity, and responsibility.”</em>
+</p>
