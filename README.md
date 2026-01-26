@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="Md Rasheduzzaman Rashed Banner" />
-</p>
 
 <h1 align="center">Md Rasheduzzaman Rashed</h1>
 
