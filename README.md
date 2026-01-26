@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Rasheduzzaman Rashed</h1>
 
 <h3 align="center">
-  Backend-Focused Full Stack Developer<br/>
-  Linux • Docker • GitHub Actions • AWS • Python
+Backend-Focused Full Stack Developer<br/>
+Linux • Docker • GitHub Actions • AWS • Python
 </h3>
 
 <p align="center">
@@ -19,18 +19,27 @@
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
-I focus on building **reliable backend systems** and **web-based applications** that reflect real-world software practices.  
-My interests include **transaction-oriented logic**, API-driven architectures, and system workflows where correctness and maintainability matter.
+I focus on building reliable backend systems and web-based applications that reflect real-world software practices rather than purely academic or tutorial-level projects. My work emphasizes backend architecture, API-driven development, and transaction-oriented logic, where clarity, correctness, and maintainability are essential.
 
-I enjoy working across the stack, but I think **from the backend outward** — prioritizing clean structure, predictable behavior, and long-term scalability.
+While I enjoy working across the stack, I think from the backend outward, prioritizing clean structure, predictable behavior, and systems designed for long-term scalability, deployment, and maintenance.
 
 ---
 
-## 🛠️ Tech Stack
+### 🧠 Professional Focus
 
-### 🚀 Frontend
+- Backend-first full stack development
+- RESTful API design and server-side architecture
+- Transaction workflows, authentication, and data integrity
+- Clean, readable, and maintainable codebases
+- Learning systems with real production relevance
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🚀 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -38,13 +47,13 @@ I enjoy working across the stack, but I think **from the backend outward** — p
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### 🧰 Backend
+#### 🧰 Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-### 🗄️ Database, DevOps & Tools
+#### 🗄️ Database, DevOps & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -54,22 +63,41 @@ I enjoy working across the stack, but I think **from the backend outward** — p
 
 ---
 
-## 🎉 Fun Facts (Kept — but Polished)
+### 📌 What I Work On
 
-- 🧠 I enjoy breaking down complex problems until they become simple systems  
-- ⏱️ I automate repetitive tasks whenever possible — even if it takes longer the first time  
-- 🐞 Debugging taught me patience, logic, and accountability  
-- 🎨 Clean UI and clean backend architecture both matter to me  
-- 💬 Python is my preferred language — for its clarity and expressiveness  
+- Backend systems with **transaction safety**
+- Authentication and role-based access control
+- API-centric applications with clean separation of concerns
+- Learning deployment, CI/CD, and DevOps workflows
 
 ---
 
-## 📌 What I’m Working Toward
+### 🎯 Current Goals
 
-- Designing backend systems with **transaction safety**
-- Strengthening understanding of **DevOps and deployment pipelines**
-- Writing clearer documentation and more intentional code
-- Preparing for real-world backend / software engineering roles  
+- Strengthening backend system design skills
+- Improving understanding of scalable architectures
+- Writing clearer documentation and structured code
+- Preparing for backend / software engineering roles
+
+---
+
+### 🎉 Personal Notes
+
+- 🧠 I enjoy breaking complex problems into clear system designs  
+- ⏱️ Automation and efficiency matter to me, even during learning  
+- 🐞 Debugging taught me responsibility and precision  
+- 🎨 Clean UI and clean backend architecture go hand in hand  
+- 💬 Python is my preferred language for its clarity and flexibility  
+
+---
+
+## 🎉 More About Myself
+
+I’m Md Rasheduzzaman Rashed, a Computer Science student based in Bangladesh, with a strong interest in **backend engineering and full stack development**. I enjoy building software systems that are practical, maintainable, and aligned with real-world use cases.
+
+My journey in technology began with curiosity around logic and problem-solving, which gradually led me into web development and backend system design. Over time, I’ve worked with modern frontend frameworks, backend APIs, and databases while continuously improving my understanding of **transaction handling, authentication, and system reliability**.
+
+I value writing readable code, learning through hands-on projects, and improving incrementally every day. Outside of structured development work, I often explore ways to automate repetitive tasks, refine system designs, or improve application performance through better architecture choices.
 
 ---
 
