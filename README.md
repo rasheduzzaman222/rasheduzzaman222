@@ -5,7 +5,6 @@
   <img 
     src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=620&lines=Backend-Focused+Full+Stack+Developer" 
   />
-  <br/>
   <img 
     src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=1800&pause=2200&color=AAAAAA&center=true&vCenter=true&width=720&lines=Linux+%E2%80%A2+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+AWS+%E2%80%A2+Python" 
   />
