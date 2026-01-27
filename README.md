@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Md Rasheduzzaman Rashed</h1>
 
 
-<p align="center">
+<div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend-Focused+Full+Stack+Developer" 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=620&lines=Backend-Focused+Full+Stack+Developer" 
   />
-</p>
-
-<p align="center">
+  <br/>
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2000&pause=3000&color=CCCCCC&center=true&vCenter=true&width=700&lines=Linux+%E2%80%A2+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+AWS+%E2%80%A2+Python" 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=1800&pause=2200&color=AAAAAA&center=true&vCenter=true&width=720&lines=Linux+%E2%80%A2+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+AWS+%E2%80%A2+Python" 
   />
-</p>
+</div>
 
 ---
 
