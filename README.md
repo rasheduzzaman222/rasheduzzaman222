@@ -54,14 +54,6 @@ While I enjoy working across the stack, I think from the backend outward, priori
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
-### 🔭 Areas I’m Expanding Into
-
-- 🔷 [E-Hostel Management System](https://github.com/rasheduzzaman222/System-Analysis-And-Design-Project)
-- 🔷 [House Rent Management System](https://github.com/rasheduzzaman222/House-Rent-System)
-- 🔷 [Book Shop Management System](https://github.com/rasheduzzaman222/Book-Shop-Management)
-- 🔷 [FastAPI PostgreSQL CRUD Projects](https://github.com/rasheduzzaman222/Fastapi-Postgresql-Crud-Projects)
-
----
 
 ### 💻 Platforms & Design
 
@@ -71,6 +63,16 @@ While I enjoy working across the stack, I think from the backend outward, priori
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
 ---
+
+### 🔭 Areas I’m Expanding Into
+
+- 🔷 [E-Hostel Management System](https://github.com/rasheduzzaman222/System-Analysis-And-Design-Project)
+- 🔷 [House Rent Management System](https://github.com/rasheduzzaman222/House-Rent-System)
+- 🔷 [Book Shop Management System](https://github.com/rasheduzzaman222/Book-Shop-Management)
+- 🔷 [FastAPI PostgreSQL CRUD Projects](https://github.com/rasheduzzaman222/Fastapi-Postgresql-Crud-Projects)
+
+---
+
 
 ### 📌 What I Work On
 
