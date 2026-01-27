@@ -19,7 +19,6 @@ Linux • Docker • GitHub Actions • AWS • Python
 </p>
 
 
-
 ---
 
 ### 🧑‍💻 About Me
