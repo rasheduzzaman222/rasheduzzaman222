@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Rasheduzzaman Rashed</h1>
 
 ---
+<h3 align="center">
+Backend-Focused Full Stack Developer<br/>
+Linux • Docker • GitHub Actions • AWS • Python
+</h3>
 
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2200&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&repeat=false&multiline=true&lines=Backend-Focused+Full+Stack+Developer;Linux+•+Docker+•+GitHub+Actions+•+AWS+•+Python"
-    alt="Typing SVG"
-  />
-</div>
----
 <p align="center">
   <a href="mailto:rasheduzzaman788@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
