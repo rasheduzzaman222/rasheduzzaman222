@@ -76,10 +76,10 @@ While I enjoy working across the stack, I think from the backend outward, priori
 
 ### 📌 What I Work On
 
-- Backend systems with **transaction safety**
-- Authentication and role-based access control
-- API-centric applications with clean separation of concerns
-- Learning deployment, CI/CD, and DevOps workflows
+- ⚙ Backend systems with transaction safety  
+- ⚙ Authentication and role-based access control  
+- ⚙ API-centric applications with clean separation of concerns  
+- ⚙ Learning deployment, CI/CD, and DevOps workflows  
 
 ---
 
