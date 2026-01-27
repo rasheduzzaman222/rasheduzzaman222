@@ -68,11 +68,6 @@ Linux • Docker • GitHub Actions • AWS • Python
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Transaction%20Logic-yellow?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-API%20%26%20Transactions-blue?style=flat-square" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasheduzzaman222&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasheduzzaman222&layout=compact&hide_border=true&theme=github_dark" width="48%" />
 </p>
