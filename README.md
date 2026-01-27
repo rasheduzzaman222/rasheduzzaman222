@@ -1,20 +1,26 @@
 <h1 align="center">Hi 👋, I'm Md Rasheduzzaman Rashed</h1>
 
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2200&pause=1000&color=24292e&center=true&vCenter=true&width=800&repeat=false&multiline=true&lines=Backend-Focused+Full+Stack+Developer%0ALinux+%E2%80%A2+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+AWS+%E2%80%A2+Python" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2200&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&repeat=false&multiline=true&lines=Backend-Focused+Full+Stack+Developer;Linux+•+Docker+•+GitHub+Actions+•+AWS+•+Python"
+    alt="Typing SVG"
+  />
 </div>
+---
 <p align="center">
   <a href="mailto:rasheduzzaman788@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/rashed.raj.48">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.linkedin.com/in/md-rasheduzzaman-rashed-3a9128390/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 
 
 ---
