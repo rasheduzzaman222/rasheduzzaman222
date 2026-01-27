@@ -3,12 +3,19 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2200&pause=800&color=FFFFFF&center=true&vCenter=true&width=620&lines=Backend-Focused+Full+Stack+Developer" 
-  />
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=1800&pause=2200&color=AAAAAA&center=true&vCenter=true&width=720&lines=Linux+%E2%80%A2+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+AWS+%E2%80%A2+Python" 
+    src="https://readme-typing-svg.demolab.com
+      ?font=Inter
+      &size=22
+      &duration=2200
+      &pause=800
+      &color=FFFFFF
+      &center=true
+      &vCenter=true
+      &width=720
+      &lines=Backend-Focused+Full+Stack+Developer;Linux+%E2%80%A2+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+AWS+%E2%80%A2+Python" 
   />
 </div>
+
 <p align="center">
   <a href="mailto:rasheduzzaman788@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
