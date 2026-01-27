@@ -2,22 +2,8 @@
 
 
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com
-      ?font=Inter
-      &size=22
-      &duration=2200
-      &pause=1000
-      &color=FFFFFF
-      &center=true
-      &vCenter=true
-      &width=800
-      &repeat=false
-      &multiline=true
-      &lines=Backend-Focused+Full+Stack+Developer%0ALinux+%E2%80%A2+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+AWS+%E2%80%A2+Python"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2200&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&repeat=false&multiline=true&lines=Backend-Focused+Full+Stack+Developer%0ALinux+%E2%80%A2+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+AWS+%E2%80%A2+Python" />
 </div>
-
 
 <p align="center">
   <a href="mailto:rasheduzzaman788@gmail.com">
