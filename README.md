@@ -56,6 +56,17 @@ Linux • Docker • GitHub Actions • AWS • Python
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rasheduzzaman222&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasheduzzaman222&layout=compact&hide_border=true&theme=github_dark" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rasheduzzaman222&theme=github-dark&hide_border=true" width="60%" />
+</p>
+---
 
 ### 💻 Platforms & Design
 
