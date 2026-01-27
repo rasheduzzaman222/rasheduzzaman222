@@ -1,23 +1,16 @@
 <h1 align="center">Hi 👋, I'm Md Rasheduzzaman Rashed</h1>
 
-<h3 align="center">Backend-Focused Full Stack Developer</h3>
-<p align="center">Linux • Docker • GitHub Actions • AWS • Python</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1000&color=8AB4F8&center=true&vCenter=true&width=500&lines=Transaction-Oriented+Backend+Systems;API+Design+%26+Data+Integrity" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend-Focused+Full+Stack+Developer" 
+  />
 </p>
 
-
 <p align="center">
-  <a href="mailto:rasheduzzaman788@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/rashed.raj.48">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-rasheduzzaman-rashed-3a9128390/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2000&pause=3000&color=CCCCCC&center=true&vCenter=true&width=700&lines=Linux+%E2%80%A2+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+AWS+%E2%80%A2+Python" 
+  />
 </p>
 
 ---
