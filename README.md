@@ -21,10 +21,10 @@ Linux • Docker • GitHub Actions • AWS • Python
 
 ### 🧑‍💻 About Me
 
-- ▸ Focused on building reliable backend systems and real-world web applications  
-- ▸ Emphasis on backend architecture, API-driven development, and transaction-oriented logic  
-- ▸ Prioritize clarity, correctness, and long-term maintainability over quick demos  
-- ▸ Approach problems from the backend outward, designing systems for scalability and deployment  
+- ▶ **Backend Systems & Real-World Applications** — focused on building reliable backend systems and production-oriented web applications  
+- ▶ **Backend Architecture & APIs** — emphasis on API-driven development and transaction-oriented logic  
+- ▶ **Code Quality & Maintainability** — prioritize clarity, correctness, and long-term maintainability over quick demos  
+- ▶ **System-First Thinking** — approach problems from the backend outward, designing for scalability and deployment  
 
 ---
 
