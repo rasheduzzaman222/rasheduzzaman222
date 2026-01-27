@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md Rasheduzzaman Rashed</h1>
 
+<h3 align="center">Backend-Focused Full Stack Developer</h3>
+<p align="center">Linux • Docker • GitHub Actions • AWS • Python</p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend-Focused+Full+Stack+Developer;Transaction-Oriented+Backend+Systems;Linux+%E2%80%A2+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+AWS+%E2%80%A2+Python" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1000&color=8AB4F8&center=true&vCenter=true&width=500&lines=Transaction-Oriented+Backend+Systems;API+Design+%26+Data+Integrity" />
 </p>
+
 
 <p align="center">
   <a href="mailto:rasheduzzaman788@gmail.com">
