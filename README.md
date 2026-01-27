@@ -64,21 +64,23 @@ While I enjoy working across the stack, I think from the backend outward, priori
 ---
 ### 🔭 Areas I’m Expanding Into
 
-- **Backend System Design through Real Projects**  
-  Building and refining backend-driven applications to understand system workflows, validations, and real-world constraints.  
+## 🚀 Featured Projects
+
+- 📘 **E-Hostel Management System**  
+  Academic system design project focused on structured workflows and documentation.  
+  🔗 https://github.com/rasheduzzaman222/System-Analysis-And-Design-Project
+
+- 🏠 **House Rent Management System**  
+  Backend-driven application for managing rental workflows and user interactions.  
   🔗 https://github.com/rasheduzzaman222/House-Rent-System
 
-- **Transaction-Oriented CRUD Applications**  
-  Strengthening database operations, data integrity, and API-based CRUD flows using FastAPI and PostgreSQL.  
+- 🛒 **Book Shop Management System**  
+  Business logic–oriented system for inventory and record management.  
+  🔗 https://github.com/rasheduzzaman222/Book-Shop-Management
+
+- ⚙️ **FastAPI PostgreSQL CRUD Projects**  
+  API-based CRUD implementations focusing on database integrity and backend structure.  
   🔗 https://github.com/rasheduzzaman222/Fastapi-Postgresql-Crud-Projects
-
-- **Management Systems & Business Logic Implementation**  
-  Implementing core business logic for inventory, sales, and record management systems with a focus on backend structure.  
-  🔗 https://github.com/rasheduzzaman222/Book-Shop-Management.git
-
-- **E-Hostel Management System (Academic Project)**  
-  Designing a structured system for hostel management workflows including room allocation, tenant management, and administrative processes.  
-  🔗 https://github.com/rasheduzzaman222/System-Analysis-And-Design-Project.git
 
 ---
 
