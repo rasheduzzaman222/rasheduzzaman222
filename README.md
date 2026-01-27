@@ -10,6 +10,17 @@
     src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=1800&pause=2200&color=AAAAAA&center=true&vCenter=true&width=720&lines=Linux+%E2%80%A2+Docker+%E2%80%A2+GitHub+Actions+%E2%80%A2+AWS+%E2%80%A2+Python" 
   />
 </div>
+<p align="center">
+  <a href="mailto:rasheduzzaman788@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/rashed.raj.48">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-rasheduzzaman-rashed-3a9128390/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
