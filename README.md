@@ -27,15 +27,7 @@ While I enjoy working across the stack, I think from the backend outward, priori
 
 ---
 
-### 🧠 Professional Focus
 
-- Backend-first full stack development
-- RESTful API design and server-side architecture
-- Transaction workflows, authentication, and data integrity
-- Clean, readable, and maintainable codebases
-- Learning systems with real production relevance
-
----
 
 ### 🛠️ Tech Stack
 
@@ -81,14 +73,6 @@ While I enjoy working across the stack, I think from the backend outward, priori
 
 ---
 
-### 🎯 Current Goals
-
-- Strengthening backend system design skills
-- Improving understanding of scalable architectures
-- Writing clearer documentation and structured code
-- Preparing for backend / software engineering roles
-
----
 
 ### 🎉 Personal Notes
 
