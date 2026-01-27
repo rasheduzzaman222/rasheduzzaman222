@@ -56,7 +56,21 @@ Linux • Docker • GitHub Actions • AWS • Python
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
+
+### 💻 Platforms & Design
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+
+---
 ## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Transaction%20Logic-yellow?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend-API%20%26%20Transactions-blue?style=flat-square" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasheduzzaman222&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" width="48%" />
@@ -66,14 +80,6 @@ Linux • Docker • GitHub Actions • AWS • Python
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rasheduzzaman222&theme=github-dark&hide_border=true" width="60%" />
 </p>
----
-
-### 💻 Platforms & Design
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
 ---
 
