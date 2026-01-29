@@ -67,7 +67,6 @@ Linux • Docker • GitHub Actions • AWS • Python
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 
 ---
-## 📊 GitHub Overview
 
 ## 📊 GitHub Overview
 
