@@ -74,10 +74,12 @@ Linux • Docker • GitHub Actions • AWS • Python
   <img
     src="https://github-readme-stats.vercel.app/api?username=rasheduzzaman222&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
     height="165"
+    alt="GitHub stats"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasheduzzaman222&layout=compact&hide_border=true&theme=github_dark"
     height="165"
+    alt="Top languages"
   />
 </p>
 
@@ -85,8 +87,10 @@ Linux • Docker • GitHub Actions • AWS • Python
   <img
     src="https://streak-stats.demolab.com?user=rasheduzzaman222&theme=github-dark&hide_border=true"
     height="180"
+    alt="GitHub streak"
   />
 </p>
+
 
 ---
 
