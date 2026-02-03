@@ -68,7 +68,7 @@ Linux • Docker • GitHub Actions • AWS • Python
 
 ---
 
-<h2 align="center">📊 GitHub Overview</h2>
+### 📊 GitHub Overview
 
 <p align="center">
   <img
